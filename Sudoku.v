@@ -1,9 +1,4 @@
-(* 
-   A Sudoku solver in Coq
-      Version: 0.1
-      Author:  Daniel Gerigk
-      Date:    16.06.2015
-*)
+(* A Sudoku solver in Coq, v0.1, https://github.com/danielgerigk/Sudoku *)
 
 Inductive A :=
    | a1 : A
